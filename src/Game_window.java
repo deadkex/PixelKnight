@@ -17,11 +17,12 @@ public class Game_window extends JFrame
         this.add(this.window2, BorderLayout.CENTER);
         window2.setVisible(true);
 
+        /*
         window3 = new Main_menu_gui_V1();
         this.setContentPane(window3.panel1);
         this.pack();
         window3.setVisible(true);
-
+        */
 
         //window3 = new Main_menu_gui_V1();
         //this.add(this.window3, BorderLayout.CENTER);
