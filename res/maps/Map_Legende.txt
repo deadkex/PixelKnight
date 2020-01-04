@@ -1,0 +1,5 @@
+0 = subground
+1 = clouds
+2 = air
+3 = floor
+4 = floor with tree
